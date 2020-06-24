@@ -1,4 +1,4 @@
-[![forthebadge](https://github.com/KushalBhanot)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://github.com/KushalBhanot)
 
 [![GitHub followers](https://img.shields.io/github/followers/KushalBhanot?label=Follow&style=social)](https://github.com/KushalBhanot?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/KushalBhanot/Magic-8-Ball-iOS.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/KushalBhanot/Magic-8-Ball-iOS)
 
