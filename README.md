@@ -1,6 +1,6 @@
-[![forthebadge](https://forthebadge.com/images/badges/made-with-swift.svg)](https://forthebadge.com)
+[![forthebadge](https://github.com/KushalBhanot)
 
-[![GitHub followers](https://img.shields.io/github/followers/KushalBhanot?label=Follow&style=social)](https://github.com/KushalBhanot?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/KushalBhanot/Cartpole-RL.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/KushalBhanot/Cartpole-RL)
+[![GitHub followers](https://img.shields.io/github/followers/KushalBhanot?label=Follow&style=social)](https://github.com/KushalBhanot?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/KushalBhanot/Magic-8-Ball-iOS.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/KushalBhanot/Magic-8-Ball-iOS)
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-Kushal%20Bhanot-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kushal-bhanot-5495aa88/)
 
