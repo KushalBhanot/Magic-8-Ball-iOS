@@ -5,6 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-Kushal%20Bhanot-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kushal-bhanot-5495aa88/)
 
 # Magic-8-Ball-iOS
+[![HitCount](http://hits.dwyl.com/KushalBhanot/Magic-8-Ball-iOS13.svg)](http://hits.dwyl.com/KushalBhanot/Magic-8-Ball-iOS13)<br>
 Have some decisions to make? Trying to make a choice? Or maybe often insecure about your decisions? Magic 8 Ball will help you find right answers to life’s challenging questions!
 
 ## Cloning
